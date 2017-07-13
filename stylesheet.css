@@ -37,7 +37,7 @@ body{
   width: auto;
   padding: 2px;
   margin: 0 auto;
-  background-imaage: url("background.jpg);
+  background-imaage: url("background.jpg");
   background-size: cover;
   text-decoration:none;
 }
@@ -62,7 +62,7 @@ span{
 }
 
 img  {
-    float: right;
+    float: center;
 }
 
 div {
